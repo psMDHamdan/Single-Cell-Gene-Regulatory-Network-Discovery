@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Data and Artifacts (Exclude large biological data)
+data/*.h5ad
+data/*.npy
+data/trrust_raw.txt
+data/pbmc3k_raw.h5ad
+data/pbmc3k_processed.h5ad
+data/pbmc3k_trajectory.h5ad
+data/prior_adj.npy
+data/gene_embeddings.npy
+data/grn_model.pt
+data/grn_plot.png
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

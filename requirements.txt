@@ -1,0 +1,15 @@
+scanpy
+anndata
+torch
+torch-geometric
+networkx
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+scipy
+tqdm
+requests
+pybiomart
