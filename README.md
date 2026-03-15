@@ -61,6 +61,3 @@ streamlit run scripts/dashboard.py
 
 The inferred network identifies "Master Regulators"—genes that act as central hubs in cellular decision-making. By analyzing the weight and direction of edges, researchers can identify novel targets for disease intervention or developmental studies.
 
-## 📄 License
-
-This project is licensed under the MIT License.
